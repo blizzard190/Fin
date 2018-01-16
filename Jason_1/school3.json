@@ -1,0 +1,15 @@
+{"school":{
+      "Mediacollege": {
+          "courses": [
+              "MD",
+              "GameArtist"
+          ]
+      },
+      "Horizoncollege": {
+          "courses": [
+              "VZ",
+              "GameArtist"
+          ]
+      }
+  }
+}
